@@ -14,3 +14,11 @@ print(val)
 
 for n, c in dicto.items():
     print(n, c)
+
+ 
+values = set(range(0, 4))
+print(values)
+values.remove(0)
+print(values)
+arr = [1] * 2
+print(arr)
